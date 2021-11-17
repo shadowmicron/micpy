@@ -2312,7 +2312,6 @@ def generate(text):
 					results.append("anjing")
 					results.append("kontol")
 				elif "bd" in ct:
-					results.append(i)
 					results.append(i+"123")
 					results.append(i+"1234")
 					results.append(i+"12345")
