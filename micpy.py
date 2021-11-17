@@ -2379,7 +2379,7 @@ def pilih_pw():
 	except:pass
 	print(war+"Please Choose Password.."), time.sleep(2)
 	print("\n"+C+"["+K+"1"+C+"]"+K+" Name123 + Name1234 + Name12345 + Full name ")
-	print(C+"["+K+"2"+C+"]"+K+" 19pass-Bangladesh")
+	print(C+"["+K+"2"+C+"]"+K+" 18pass-Bangladesh")
 	print(C+"["+K+"3"+C+"]"+K+" Pakistan")
 	print(C+"["+K+"4"+C+"]"+K+" United States")
 	print(C+"["+K+"5"+C+"]"+K+" Indonesia")
